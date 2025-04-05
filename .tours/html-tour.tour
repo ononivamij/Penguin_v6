@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "html-tour",
+  "steps": [
+    {
+      "file": "index.html",
+      "description": "create div container to hold content.",
+      "line": 11
+    }
+  ],
+  "ref": "main"
+}
